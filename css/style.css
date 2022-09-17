@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: #333 !important;
+}
+
+.navbar img {
+    width: 70px;
+}
+
+.navbar a {
+    color: #fff;
+}
+
+.nav-item li a:hover{
+    color: #FC453F !important;
+}
+
+.nav-item button {
+    background-color: #FC453F;
+    border-radius: 25px;
+    color: #fff;
+    padding: 11px 30px;
+}
